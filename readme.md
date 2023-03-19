@@ -4,7 +4,7 @@ This is a machine learning project that aims to predict loan approval status for
 
 ## Dependencies
 
-The project relies on the following Python packages:
+The project relies on the following Python packages: <br>
 ```pandas``` <br>
 ```numpy``` <br>
 ```scikit-learn``` <br>
